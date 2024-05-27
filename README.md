@@ -9,18 +9,18 @@
 
 <h1>Como rodar:</h1>
 <h2>Crie uma pasta para clonar o repositório, e no cmd ou em um terminal digite esse código:</h2>
-...
+
 git clone https://github.com/kaueriki/atviii-atlantis.git
-...
+
 <h2>Depois de clonado, abra a pasta src e prepare o ambiente:</h2>
-...
+
 npm install
-...
+
 <h2>Depois:</h2>
-...
+
 npx tsc
-...
-<h2>E parra realmente rodar o projeto:</h2>
-...
+
+<h2>E para realmente rodar o projeto:</h2>
+
 node .\js\app\app.js
-...
+
